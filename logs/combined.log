@@ -1,0 +1,1887 @@
+[2025-11-27 00:28:17] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:28:17] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:28:43] [31merror[39m: Ensured table 'users' exists
+[2025-11-27 00:28:43] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:28:51] [33mwarn[39m: Ensured table 'users' exists
+[2025-11-27 00:28:51] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:28:58] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:28:58] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:14] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:29:14] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:16] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:29:16] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:18] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:29:18] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:18] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:29:34] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:29:34] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:34] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:29:37] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:29:37] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:29:37] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:29:41] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:29:44] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:00] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:00] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:00] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:14] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:14] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:14] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:28] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:28] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:28] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:32] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:33] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:33] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:35] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:30:35] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:35] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:51] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:30:51] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:51] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:54] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:30:54] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:54] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:30:57] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:30:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:30:57] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:30:57] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:31:18] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:31:18] [31merror[39m: ❌ Database Connection Failed: 
+[2025-11-27 00:31:28] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:31:28] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:31:28] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:31:28] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:33:48] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:33:48] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:33:56] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:33:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:34:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:34:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:34:39] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:34:39] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:34:43] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:34:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:11] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:11] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:14] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:14] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:15] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:15] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:17] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:20] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:21] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:21] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:22] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:35:26] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:35:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:36:12] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:36:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:36:18] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:36:18] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:36:24] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:36:24] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:36:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:36:26] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:36:26] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:36:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:42:57] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:42:57] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:42:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:42:59] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:42:59] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:42:59] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:43:06] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:43:06] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:43:06] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:43:08] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:43:08] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:43:08] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:43:11] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:43:11] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:43:11] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:44:17] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:44:17] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:44:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:45:26] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:45:26] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:45:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:45:36] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:45:36] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:45:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:46] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:46] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:46] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:48] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:48] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:48] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:52] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:52] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:52] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:54] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:54] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:57] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:57] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:46:58] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:46:58] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:46:58] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:01] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:47:01] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:03] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:47:03] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:03] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:18] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:18] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:24] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:47:24] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:39] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:47:40] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:40] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:47:49] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:47:49] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:47:49] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:48:05] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:48:05] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:48:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:48:14] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:48:14] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:48:14] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:48:25] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:48:25] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:48:25] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:48:33] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:48:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:48:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:48:39] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:48:39] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:48:39] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:49:06] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:49:06] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:49:06] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:49:08] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:49:08] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:49:08] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:49:22] [31merror[39m: Migration error in table 'shubham': classInstance is not a constructor
+[2025-11-27 00:49:22] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:49:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:52:55] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:52:55] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:52:59] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:52:59] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:04] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:53:04] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:11] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:53:11] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:21] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:53:21] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:26] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:53:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:26] [32minfo[39m: Ensured table 'users' exists
+[2025-11-27 00:53:26] [32minfo[39m: Table 'users' already up-to-date
+[2025-11-27 00:53:41] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:53:41] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:53:41] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:53:41] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:54:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:54:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:54:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:54:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:54:36] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:54:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:54:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:54:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:13] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:13] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:13] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:13] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:18] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:18] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:18] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:18] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:32] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:32] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:32] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:32] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:36] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:57:38] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:57:38] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:57:38] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:57:38] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:58:20] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:58:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:58:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:58:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:58:21] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:58:21] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:58:21] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:58:21] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:58:24] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:58:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:58:24] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:58:24] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:58:27] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:58:28] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:58:28] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:58:28] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:59:07] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:59:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:59:07] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:59:07] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:59:11] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:59:11] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:59:11] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:59:11] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:59:16] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:59:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:59:16] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:59:16] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 00:59:20] [32minfo[39m: Server is running on port 3000
+[2025-11-27 00:59:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 00:59:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 00:59:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:01:51] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:01:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:01:51] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:01:51] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:31] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:31] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:31] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:31] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:32] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:32] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:32] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:32] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:34] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:34] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:34] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:34] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:36] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:02:38] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:02:38] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:02:38] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:02:38] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:33] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:36] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:39] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:39] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:39] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:39] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:40] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:41] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:41] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:41] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:44] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:44] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:44] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:48] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:49] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:49] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:49] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:03:51] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:03:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:03:51] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:03:51] [32minfo[39m: Added column 'role' to table 'usersq'
+[2025-11-27 01:03:51] [32minfo[39m: Table 'usersq' updated with new fields
+[2025-11-27 01:05:03] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:05:03] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:05:03] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:05:03] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:07:10] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:07:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:07:10] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:07:10] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 01:07:16] [32minfo[39m: Server is running on port 3000
+[2025-11-27 01:07:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-27 01:07:16] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-27 01:07:16] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-27 23:49:16] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:50:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:50:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:50:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:50:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:50:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:50:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:50:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:50:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:10] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:10] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:10] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:10] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:10] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:10] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:19] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:19] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:19] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:19] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:19] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:19] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:19] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:19] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:20] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:20] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:27] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:27] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:27] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:27] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:27] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:27] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:35] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:35] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:35] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:35] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:35] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:35] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:41] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:41] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:41] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:41] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:41] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:41] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:41] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:41] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:44] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:44] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:44] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:44] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:44] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:44] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:47] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:47] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:51:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:51:47] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:47] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:51:47] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:51:47] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:43] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:43] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:43] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:43] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:43] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:43] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:45] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:45] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:45] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:45] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:45] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:45] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:45] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:45] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:47] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:47] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:47] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:47] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:47] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:47] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:53] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:53] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:53] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:53] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:53] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:53] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:53] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:53] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:56] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:56] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:56] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:56] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:56] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:56] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:54:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:54:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:54:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:54:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:55:19] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:55:19] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:55:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:55:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:55:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:55:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:55:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:55:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:55:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:55:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 00:55:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:55:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 00:55:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:55:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 00:55:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 00:55:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:02:33] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:02:33] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:02:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:02:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:02:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:02:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:02:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:02:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:02:35] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:02:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:02:35] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:02:35] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:02:35] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:02:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:02:35] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:02:35] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:24] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:24] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:24] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:24] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:24] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:24] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:48] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:48] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:49] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:49] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:49] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:49] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:49] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:49] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:52] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:52] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:03:52] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:52] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:03:52] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:52] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:03:52] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:03:52] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:04:20] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:04:20] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:04:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:04:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:04:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:04:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:04:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:04:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:04:24] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:04:24] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:04:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:04:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:04:24] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:04:24] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:04:24] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:04:24] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:07:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:07:22] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:07:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:07:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:07:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:07:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:07:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:07:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:11:58] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:11:58] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:11:58] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:11:58] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:11:58] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:11:58] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:11:58] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:11:58] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:12:00] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:12:00] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:12:00] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:12:00] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:12:00] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:12:00] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:12:00] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:12:00] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:24:00] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:24:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:24:01] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:24:01] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:24:01] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:24:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:24:01] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:24:01] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:24:12] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:24:12] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:24:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:24:12] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:24:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:24:12] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:24:12] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:24:12] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:24:12] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:24:12] [31merror[39m: Migration error in table 'products': duplicate key value violates unique constraint "pg_type_typname_nsp_index"
+[2025-11-28 01:24:12] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:25:40] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:25:40] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:25:40] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:25:40] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:25:40] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:25:40] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:25:40] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:25:40] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:25:40] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:25:40] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:25:40] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:25:40] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:25:44] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:25:44] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:25:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:25:44] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:25:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:25:44] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:25:44] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:25:44] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:25:44] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:25:44] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:25:44] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:25:44] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:26:23] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:26:23] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:26:23] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:26:23] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:26:23] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:26:23] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:26:23] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:26:23] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:26:23] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:26:23] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:26:23] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:26:23] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:33:48] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:33:48] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:33:48] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:33:48] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:33:48] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:33:48] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:33:48] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:33:48] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:33:48] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:33:48] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:33:48] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:33:48] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:37:54] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:37:54] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:37:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:37:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:37:54] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:37:54] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:37:54] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:37:54] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:37:54] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:37:54] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:37:54] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:37:54] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:37:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:37:57] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:37:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:37:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:37:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:37:57] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:37:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:37:57] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:37:57] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:37:57] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:37:57] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:37:57] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:46:14] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:46:14] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:46:14] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:46:14] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:46:14] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:46:14] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:46:14] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:46:14] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:46:14] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:46:14] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:46:14] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:46:14] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:46:17] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:46:17] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:46:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:46:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:46:17] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:46:17] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:46:17] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:46:17] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:46:17] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:46:17] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:46:17] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:46:17] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:01] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:01] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:01] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:01] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:01] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:01] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:01] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:01] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:01] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:01] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:04] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:04] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:04] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:04] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:04] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:04] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:04] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:04] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:04] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:04] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:04] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:04] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:07] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:07] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:07] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:07] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:07] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:07] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:07] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:07] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:07] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:07] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-28 01:47:50] [32minfo[39m: Server is running on port 3000
+[2025-11-28 01:47:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-28 01:47:51] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-28 01:47:51] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-28 01:47:51] [32minfo[39m: Ensured table 'products' exists
+[2025-11-28 01:47:51] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 17:33:22] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:33:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:33:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 17:33:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 17:33:22] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 17:33:22] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 17:41:22] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:41:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:41:22] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 17:41:22] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 17:41:22] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 17:41:22] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 17:42:04] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:42:04] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:04] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:20] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:42:20] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:20] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:41] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:42:41] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:41] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:45] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:42:45] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:45] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:47] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:42:47] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:42:47] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:10] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:10] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:10] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:16] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:16] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:16] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:18] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:18] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:18] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:19] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:19] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:19] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:22] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:22] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:22] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:29] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:29] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:29] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:34] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:34] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:34] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:39] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:39] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:39] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:40] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:40] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:40] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:44] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:44] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:44] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:45] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:45] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:45] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:53] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:53] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:53] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:55] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:43:55] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:43:55] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:44:03] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:44:03] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:44:03] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:44:15] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:44:15] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:44:15] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:44:17] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:44:17] [31merror[39m: ❌ Database Connection Failed: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+[2025-11-29 17:44:38] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:44:38] [31merror[39m: ❌ Database Connection Failed: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+[2025-11-29 17:45:05] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:45:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:45:05] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:45:05] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:45:12] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:45:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:45:12] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:45:12] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:45:17] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:45:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:45:17] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:45:17] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:46:42] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:46:42] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:46:42] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:46:42] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:07] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:07] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:07] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:27] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:27] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:27] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:35] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:35] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:35] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:36] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:36] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:36] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:45] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:45] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:45] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:45] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:54] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:47:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:47:54] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:47:54] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:48:05] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:48:06] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:48:06] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:48:06] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:48:15] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:48:15] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:48:15] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:48:15] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:01] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:51:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:51:01] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:01] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:18] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:51:18] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:51:18] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:18] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:22] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:51:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:51:22] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:22] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:47] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:51:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:51:47] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:47] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:51:59] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:51:59] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:52:08] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:52:08] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:52:09] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:52:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:52:10] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:52:10] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:52:16] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:52:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:52:16] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:52:16] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:52:51] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:52:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:52:51] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:52:51] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:00] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:00] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:00] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:05] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:53:05] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:05] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:38] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:38] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:53:38] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:38] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:43] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:53:43] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:43] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:48] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:48] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:53:48] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:48] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:51] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:53:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:53:51] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:53:51] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:55:28] [32minfo[39m: Server is running on port 3000
+[2025-11-29 17:55:28] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:55:28] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:55:28] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:55:50] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:55:50] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:55:50] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:55:50] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:56:02] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:56:02] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:02] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:02] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:56:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:56:07] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:07] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:07] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:56:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:56:12] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:12] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:12] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:56:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:56:16] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:16] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:56:16] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:57:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:57:10] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:57:10] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:57:10] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 17:57:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 17:57:12] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:57:12] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 17:57:12] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:07:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:07:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:07:56] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:07:56] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:07:56] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:08:00] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:08:00] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:08:00] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:08:00] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:09:25] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:25] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:25] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:09:31] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:31] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:31] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:09:36] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:36] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:09:36] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:10:37] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:37] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:10:40] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:40] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:40] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:10:44] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:44] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:10:51] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:51] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:51] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:10:52] [32minfo[39m: Connecting to Database...
+[2025-11-29 18:10:52] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:52] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:10:52] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:11:15] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:11:15] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:11:15] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:11:42] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:11:42] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:11:42] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:12:27] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:12:27] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:12:27] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:12:42] [31merror[39m: Migration error in table 'users': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:12:42] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:12:42] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-29 18:12:42] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:15:20] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:15:20] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:15:20] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:15:20] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:16:36] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:16:36] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:36] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:36] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:16:37] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:16:37] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:37] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:37] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:16:48] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:16:48] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:48] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:16:48] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:17:04] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:17:04] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:04] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:04] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:17:09] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:17:09] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:09] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:09] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:17:24] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:17:24] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:24] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:17:24] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:06] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:06] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:06] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:06] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:26] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:26] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:26] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:26] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:29] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:29] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:29] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:29] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:31] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:31] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:31] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:31] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:42] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:42] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:42] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:42] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:45] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:45] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:45] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:45] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:50] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:50] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:50] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:50] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:19:52] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:19:52] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:52] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:19:52] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:20:06] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:06] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:06] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:20:09] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:09] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:09] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:20:36] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:36] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:36] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:20:42] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:42] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:20:42] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:20:42] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:21:00] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:21:00] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:21:00] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:21:00] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:21:11] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:21:11] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:21:11] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:21:11] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:22:01] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:22:01] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:22:01] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:22:01] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:22:55] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:22:55] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:22:55] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:22:55] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:23:20] [32minfo[39m: DB Connected Successfully
+[2025-11-29 18:23:20] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:23:20] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:23:20] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:25:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:25:10] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:10] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:10] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:25:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:25:26] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:26] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:26] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:25:53] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:25:53] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:53] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:25:53] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:26:09] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:26:09] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:26:09] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:26:09] [32minfo[39m: Server running on port 3000
+[2025-11-29 18:31:40] [32minfo[39m: Server is running on port 3000
+[2025-11-29 18:31:40] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:31:40] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:31:40] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:31:40] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:31:40] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:33:14] [32minfo[39m: Server is running on port 3000
+[2025-11-29 18:33:14] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:33:14] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:33:14] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:33:14] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:33:14] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:33:17] [32minfo[39m: Server is running on port 3000
+[2025-11-29 18:33:17] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:33:17] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:33:17] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:33:17] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:33:17] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:33:23] [32minfo[39m: Server is running on port 3000
+[2025-11-29 18:33:23] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:33:23] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:33:23] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:33:23] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:33:23] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:38:27] [32minfo[39m: Server is running on port 3000
+[2025-11-29 18:38:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:38:27] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:38:27] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:38:27] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:38:27] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:41:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:41:20] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:41:20] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:41:20] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:41:20] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:41:20] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:41:58] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:41:58] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:41:58] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:41:58] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:41:58] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:41:58] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:42:00] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:42:00] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:42:00] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:42:00] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:42:00] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:42:00] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:42:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:42:05] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:42:05] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:42:05] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:42:05] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:42:05] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:42:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:42:16] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:42:16] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:42:16] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:42:16] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:42:16] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:42:18] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:42:18] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:42:18] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:42:18] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:42:18] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:42:18] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:42:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:42:35] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:42:35] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:42:35] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:42:35] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:42:35] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:43:08] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:43:08] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:43:08] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:43:08] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:43:08] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:43:08] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:43:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:43:27] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:43:27] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:43:27] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:43:27] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:43:27] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:43:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:43:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:43:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:43:36] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:43:36] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:43:36] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:43:40] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:43:40] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:43:40] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:43:40] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:43:40] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:43:40] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:43:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:43:47] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:43:47] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:43:47] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:43:47] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:43:47] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:44:04] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:44:04] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:44:04] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:44:04] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:44:04] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:44:04] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:44:21] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:44:21] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:44:21] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:44:21] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:44:21] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:44:21] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:44:31] [31merror[39m: ❌ Database Connection Failed: password authentication failed for user "hjh"
+[2025-11-29 18:44:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:44:36] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:44:36] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:44:36] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:44:36] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:44:36] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:46:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:46:54] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:46:54] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:46:54] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:48:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:48:20] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:48:20] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:48:20] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:49:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:49:43] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:49:43] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:49:43] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:49:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:49:57] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:49:57] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:49:57] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:51:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:51:05] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:51:05] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:51:05] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:51:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:51:16] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:51:16] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:51:16] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:54:52] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:54:52] [31merror[39m: Migration error in table 'usersq': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:54:52] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
+[2025-11-29 18:54:52] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-29 18:55:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-29 18:55:33] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-29 18:55:33] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-29 18:55:33] [32minfo[39m: Ensured table 'products' exists
+[2025-11-29 18:55:33] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-29 18:55:33] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:24:55] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:24:55] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-30 23:24:55] [32minfo[39m: Added column 'phone' to table 'usersq'
+[2025-11-30 23:24:55] [32minfo[39m: Added column 'status' to table 'usersq'
+[2025-11-30 23:24:55] [32minfo[39m: Added column 'createdAt' to table 'usersq'
+[2025-11-30 23:24:55] [32minfo[39m: Added column 'updatedAt' to table 'usersq'
+[2025-11-30 23:24:55] [32minfo[39m: Table 'usersq' updated with new fields
+[2025-11-30 23:24:55] [32minfo[39m: Ensured table 'products' exists
+[2025-11-30 23:24:55] [32minfo[39m: Table 'products' already up-to-date
+[2025-11-30 23:24:55] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:26:56] [32minfo[39m: User Router Initialized
+[2025-11-30 23:26:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:26:56] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-30 23:26:56] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-30 23:27:05] [32minfo[39m: User Router Initialized
+[2025-11-30 23:27:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:27:05] [32minfo[39m: Ensured table 'usersq' exists
+[2025-11-30 23:27:05] [32minfo[39m: Table 'usersq' already up-to-date
+[2025-11-30 23:27:05] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:28:04] [32minfo[39m: User Router Initialized
+[2025-11-30 23:28:04] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:28:04] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:28:13] [32minfo[39m: User Router Initialized
+[2025-11-30 23:28:13] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:28:13] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:28:28] [32minfo[39m: User Router Initialized
+[2025-11-30 23:28:28] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:28:28] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:07] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:07] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:09] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:10] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:10] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:12] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:12] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:16] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:16] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:16] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:20] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:20] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:22] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:22] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:26] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:26] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:27] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:27] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:27] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:31] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:31] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:31] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:34] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:34] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:34] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:37] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:37] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:37] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:45] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:45] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:45] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:54] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:54] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:54] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:57] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:57] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:29:59] [32minfo[39m: User Router Initialized
+[2025-11-30 23:29:59] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:29:59] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:30:02] [32minfo[39m: User Router Initialized
+[2025-11-30 23:30:02] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:30:02] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:30:05] [32minfo[39m: User Router Initialized
+[2025-11-30 23:30:05] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:30:05] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:38] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:38] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:38] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:41] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:41] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:41] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:47] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:47] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:49] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:49] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:49] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:50] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:50] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:50] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:52] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:52] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:52] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:56] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:56] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:32:57] [32minfo[39m: User Router Initialized
+[2025-11-30 23:32:57] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:32:57] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:33:00] [32minfo[39m: User Router Initialized
+[2025-11-30 23:33:00] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:33:00] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:33:15] [32minfo[39m: User Router Initialized
+[2025-11-30 23:33:15] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:33:15] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:33:56] [32minfo[39m: User Router Initialized
+[2025-11-30 23:33:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:33:56] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:33:59] [32minfo[39m: User Router Initialized
+[2025-11-30 23:33:59] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:33:59] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:34:06] [32minfo[39m: User Router Initialized
+[2025-11-30 23:34:06] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:34:06] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:34:09] [32minfo[39m: User Router Initialized
+[2025-11-30 23:34:09] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:34:09] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:34:13] [32minfo[39m: User Router Initialized
+[2025-11-30 23:34:13] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:34:13] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:34:28] [32minfo[39m: User Router Initialized
+[2025-11-30 23:34:28] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:34:28] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:34:32] [32minfo[39m: User Router Initialized
+[2025-11-30 23:34:32] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:34:32] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:36:03] [32minfo[39m: User Router Initialized
+[2025-11-30 23:36:03] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:36:03] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:36:20] [32minfo[39m: User Router Initialized
+[2025-11-30 23:36:20] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:36:20] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:36:24] [32minfo[39m: User Router Initialized
+[2025-11-30 23:36:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:36:24] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:36:44] [32minfo[39m: User Router Initialized
+[2025-11-30 23:36:44] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:36:44] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:37:33] [32minfo[39m: User Router Initialized
+[2025-11-30 23:37:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:37:33] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:37:35] [32minfo[39m: User Router Initialized
+[2025-11-30 23:37:35] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:37:35] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:37:42] [32minfo[39m: User Router Initialized
+[2025-11-30 23:37:42] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:37:42] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:39:25] [32minfo[39m: User Router Initialized
+[2025-11-30 23:39:25] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:39:25] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:39:56] [32minfo[39m: User Router Initialized
+[2025-11-30 23:39:56] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:39:56] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:01] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:01] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:01] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:12] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:12] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:12] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:36] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:36] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:36] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:50] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:50] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:50] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:53] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:53] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:53] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:40:55] [32minfo[39m: User Router Initialized
+[2025-11-30 23:40:55] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:40:55] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:41:24] [32minfo[39m: User Router Initialized
+[2025-11-30 23:41:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:41:24] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:41:26] [32minfo[39m: User Router Initialized
+[2025-11-30 23:41:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:41:26] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:41:47] [32minfo[39m: User Router Initialized
+[2025-11-30 23:41:47] [32minfo[39m: Error creating userTable table: DB not initialized. Call init() first.
+[2025-11-30 23:41:47] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:41:47] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:07] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:07] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:07] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:22] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:22] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:22] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:24] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:24] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:24] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:26] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:26] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:26] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:33] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:33] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:33] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:37] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:37] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:37] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:43] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:43] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:43] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:46] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:46] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:46] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:42:51] [32minfo[39m: User Router Initialized
+[2025-11-30 23:42:51] [32minfo[39m: ✅ Database Connected Successfully
+[2025-11-30 23:42:51] [32minfo[39m: 🚀 Server is running on port 3000
+[2025-11-30 23:49:54] [32minfo[39m: User Router Initialized
+[2025-11-30 23:49:54] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:49:55] [32minfo[39m: User Router Initialized
+[2025-11-30 23:50:00] [32minfo[39m: User Router Initialized
+[2025-11-30 23:50:14] [32minfo[39m: User Router Initialized
+[2025-11-30 23:50:14] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:52:07] [32minfo[39m: User Router Initialized
+[2025-11-30 23:52:07] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:52:35] [32minfo[39m: User Router Initialized
+[2025-11-30 23:52:35] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:52:37] [32minfo[39m: User Router Initialized
+[2025-11-30 23:52:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:52:48] [32minfo[39m: User Router Initialized
+[2025-11-30 23:52:48] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:52:56] [32minfo[39m: User Router Initialized
+[2025-11-30 23:52:56] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:01] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:01] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:03] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:03] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:11] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:11] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:23] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:23] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:28] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:28] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:33] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:33] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:34] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:34] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:53:38] [32minfo[39m: User Router Initialized
+[2025-11-30 23:53:38] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:54:30] [32minfo[39m: User Router Initialized
+[2025-11-30 23:54:30] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:54:48] [32minfo[39m: User Router Initialized
+[2025-11-30 23:54:48] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:54:58] [32minfo[39m: User Router Initialized
+[2025-11-30 23:54:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:00] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:00] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:11] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:11] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:30] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:30] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:41] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:41] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:44] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:47] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:47] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:50] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:50] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:55:52] [32minfo[39m: User Router Initialized
+[2025-11-30 23:55:52] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:57:38] [32minfo[39m: User Router Initialized
+[2025-11-30 23:57:38] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:57:41] [32minfo[39m: User Router Initialized
+[2025-11-30 23:57:41] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:57:45] [32minfo[39m: User Router Initialized
+[2025-11-30 23:57:45] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:57:49] [32minfo[39m: User Router Initialized
+[2025-11-30 23:57:49] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:57:58] [32minfo[39m: User Router Initialized
+[2025-11-30 23:57:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:58:05] [32minfo[39m: User Router Initialized
+[2025-11-30 23:58:05] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:58:31] [32minfo[39m: User Router Initialized
+[2025-11-30 23:58:31] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:58:53] [32minfo[39m: User Router Initialized
+[2025-11-30 23:58:53] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:58:59] [32minfo[39m: User Router Initialized
+[2025-11-30 23:58:59] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:59:01] [32minfo[39m: User Router Initialized
+[2025-11-30 23:59:01] [32minfo[39m: 🚀 Server running on port 3000
+[2025-11-30 23:59:13] [32minfo[39m: User Router Initialized
+[2025-11-30 23:59:13] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:00:30] [32minfo[39m: User Router Initialized
+[2025-12-01 00:00:31] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:00:32] [32minfo[39m: User Router Initialized
+[2025-12-01 00:00:32] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:00:37] [32minfo[39m: User Router Initialized
+[2025-12-01 00:00:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:00:38] [32minfo[39m: User Router Initialized
+[2025-12-01 00:00:38] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:01:10] [32minfo[39m: User Router Initialized
+[2025-12-01 00:01:10] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:01:32] [32minfo[39m: User Router Initialized
+[2025-12-01 00:01:32] [32minfo[39m: ✅ Database connected successfully
+[2025-12-01 00:01:32] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:01:41] [32minfo[39m: User Router Initialized
+[2025-12-01 00:01:41] [32minfo[39m: ✅ Database connected successfully
+[2025-12-01 00:01:41] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:01:45] [32minfo[39m: User Router Initialized
+[2025-12-01 00:01:45] [32minfo[39m: Database connected successfully
+[2025-12-01 00:01:45] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:01:50] [32minfo[39m: User Router Initialized
+[2025-12-01 00:01:50] [32minfo[39m: Database connected successfully
+[2025-12-01 00:01:50] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:02:05] [32minfo[39m: User Router Initialized
+[2025-12-01 00:02:05] [32minfo[39m: Database connected successfully
+[2025-12-01 00:02:05] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:02:11] [32minfo[39m: User Router Initialized
+[2025-12-01 00:02:11] [32minfo[39m: Database connected successfully
+[2025-12-01 00:02:11] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:02:22] [32minfo[39m: User Router Initialized
+[2025-12-01 00:02:22] [32minfo[39m: Database connected successfully
+[2025-12-01 00:02:22] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:02:46] [32minfo[39m: User Router Initialized
+[2025-12-01 00:02:46] [32minfo[39m: Database connected successfully
+[2025-12-01 00:02:46] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:02:50] [32minfo[39m: User Router Initialized
+[2025-12-01 00:02:50] [32minfo[39m: Database connected successfully
+[2025-12-01 00:02:50] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:03:41] [32minfo[39m: User Router Initialized
+[2025-12-01 00:03:41] [32minfo[39m: Database connected successfully
+[2025-12-01 00:03:41] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:04:33] [32minfo[39m: User Router Initialized
+[2025-12-01 00:04:33] [32minfo[39m: Database connected successfully
+[2025-12-01 00:04:33] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:04:59] [32minfo[39m: User Router Initialized
+[2025-12-01 00:04:59] [32minfo[39m: Database connected successfully
+[2025-12-01 00:04:59] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:04] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:04] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:04] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:22] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:22] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:22] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:24] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:24] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:24] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:26] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:26] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:26] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:31] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:31] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:31] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:05:34] [32minfo[39m: User Router Initialized
+[2025-12-01 00:05:34] [32minfo[39m: Database connected successfully
+[2025-12-01 00:05:34] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:22] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:22] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:22] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:30] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:30] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:30] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:33] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:33] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:33] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:44] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:44] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:49] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:49] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:49] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:06:55] [32minfo[39m: User Router Initialized
+[2025-12-01 00:06:55] [32minfo[39m: Database connected successfully
+[2025-12-01 00:06:55] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:07:05] [32minfo[39m: User Router Initialized
+[2025-12-01 00:07:05] [32minfo[39m: Database connected successfully
+[2025-12-01 00:07:05] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:07:19] [32minfo[39m: User Router Initialized
+[2025-12-01 00:07:19] [32minfo[39m: Database connected successfully
+[2025-12-01 00:07:19] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:07:37] [32minfo[39m: User Router Initialized
+[2025-12-01 00:07:37] [32minfo[39m: Database connected successfully
+[2025-12-01 00:07:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:07:49] [32minfo[39m: User Router Initialized
+[2025-12-01 00:07:49] [32minfo[39m: Database connected successfully
+[2025-12-01 00:07:49] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:08:28] [32minfo[39m: User Router Initialized
+[2025-12-01 00:08:28] [32minfo[39m: Database connected successfully
+[2025-12-01 00:08:28] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:08:41] [32minfo[39m: User Router Initialized
+[2025-12-01 00:08:41] [32minfo[39m: Database connected successfully
+[2025-12-01 00:08:41] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:08:55] [32minfo[39m: User Router Initialized
+[2025-12-01 00:08:55] [32minfo[39m: Database connected successfully
+[2025-12-01 00:08:55] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:10:54] [32minfo[39m: User Router Initialized
+[2025-12-01 00:10:54] [32minfo[39m: Database connected successfully
+[2025-12-01 00:10:54] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:11:01] [32minfo[39m: User Router Initialized
+[2025-12-01 00:11:01] [32minfo[39m: Database connected successfully
+[2025-12-01 00:11:01] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:11:12] [32minfo[39m: User Router Initialized
+[2025-12-01 00:11:12] [32minfo[39m: Database connected successfully
+[2025-12-01 00:11:12] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:11:12] [32minfo[39m: User table created successfully
+[2025-12-01 00:11:38] [32minfo[39m: User Router Initialized
+[2025-12-01 00:11:38] [32minfo[39m: Database connected successfully
+[2025-12-01 00:11:38] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:11:58] [32minfo[39m: User Router Initialized
+[2025-12-01 00:11:58] [32minfo[39m: Database connected successfully
+[2025-12-01 00:11:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:09] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:09] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:09] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:14] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:14] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:14] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:19] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:19] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:19] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:28] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:28] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:28] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:47] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:47] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:47] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:54] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:54] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:54] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:57] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:57] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:57] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:12:58] [32minfo[39m: User Router Initialized
+[2025-12-01 00:12:58] [32minfo[39m: Database connected successfully
+[2025-12-01 00:12:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:13:20] [32minfo[39m: User Router Initialized
+[2025-12-01 00:13:20] [32minfo[39m: Database connected successfully
+[2025-12-01 00:13:20] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:13:44] [32minfo[39m: User Router Initialized
+[2025-12-01 00:13:44] [32minfo[39m: Database connected successfully
+[2025-12-01 00:13:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:13:58] [32minfo[39m: User Router Initialized
+[2025-12-01 00:13:58] [32minfo[39m: Database connected successfully
+[2025-12-01 00:13:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:13:58] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:14:23] [32minfo[39m: User Router Initialized
+[2025-12-01 00:14:23] [32minfo[39m: Database connected successfully
+[2025-12-01 00:14:23] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:14:23] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:14:40] [32minfo[39m: User Router Initialized
+[2025-12-01 00:14:40] [32minfo[39m: Database connected successfully
+[2025-12-01 00:14:40] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:14:40] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:14:44] [32minfo[39m: User Router Initialized
+[2025-12-01 00:14:44] [32minfo[39m: Database connected successfully
+[2025-12-01 00:14:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:14:44] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:14:49] [32minfo[39m: User Router Initialized
+[2025-12-01 00:14:49] [32minfo[39m: Database connected successfully
+[2025-12-01 00:14:49] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:14:49] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:15:24] [32minfo[39m: User Router Initialized
+[2025-12-01 00:15:24] [32minfo[39m: Database connected successfully
+[2025-12-01 00:15:24] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:15:24] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:15:27] [32minfo[39m: User Router Initialized
+[2025-12-01 00:15:27] [32minfo[39m: Database connected successfully
+[2025-12-01 00:15:27] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:15:27] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:15:56] [32minfo[39m: User Router Initialized
+[2025-12-01 00:15:56] [32minfo[39m: Database connected successfully
+[2025-12-01 00:15:56] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:15:56] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:15:59] [32minfo[39m: User Router Initialized
+[2025-12-01 00:15:59] [32minfo[39m: Database connected successfully
+[2025-12-01 00:15:59] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:15:59] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:16:18] [32minfo[39m: User Router Initialized
+[2025-12-01 00:16:18] [32minfo[39m: Database connected successfully
+[2025-12-01 00:16:18] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:16:18] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:16:20] [32minfo[39m: User Router Initialized
+[2025-12-01 00:16:20] [32minfo[39m: Database connected successfully
+[2025-12-01 00:16:20] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:16:20] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:16:37] [32minfo[39m: User Router Initialized
+[2025-12-01 00:16:37] [32minfo[39m: Database connected successfully
+[2025-12-01 00:16:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:16:38] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:16:58] [32minfo[39m: User Router Initialized
+[2025-12-01 00:16:58] [32minfo[39m: Error creating users table: password authentication failed for user "f"
+[2025-12-01 00:17:03] [32minfo[39m: User Router Initialized
+[2025-12-01 00:17:03] [32minfo[39m: Database connected successfully
+[2025-12-01 00:17:03] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:17:03] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:17:12] [32minfo[39m: User Router Initialized
+[2025-12-01 00:17:12] [32minfo[39m: Database connected successfully
+[2025-12-01 00:17:12] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:17:12] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:17:14] [32minfo[39m: User Router Initialized
+[2025-12-01 00:17:14] [32minfo[39m: Database connected successfully
+[2025-12-01 00:17:14] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:17:14] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:17:18] [32minfo[39m: User Router Initialized
+[2025-12-01 00:17:18] [32minfo[39m: Database connected successfully
+[2025-12-01 00:17:18] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:17:18] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:17:27] [32minfo[39m: User Router Initialized
+[2025-12-01 00:17:27] [32minfo[39m: Database connected successfully
+[2025-12-01 00:17:27] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:17:27] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:18] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:18] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:18] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:18] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:23] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:23] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:23] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:23] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:30] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:30] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:30] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:30] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:36] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:36] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:36] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:36] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:39] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:39] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:39] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:39] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:41:43] [32minfo[39m: User Router Initialized
+[2025-12-01 00:41:43] [32minfo[39m: Database connected successfully
+[2025-12-01 00:41:43] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:41:43] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:23] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:23] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:23] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:23] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:31] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:31] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:31] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:31] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:36] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:36] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:36] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:36] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:37] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:37] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:37] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:37] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:47] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:47] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:47] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:47] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:44:58] [32minfo[39m: User Router Initialized
+[2025-12-01 00:44:58] [32minfo[39m: Database connected successfully
+[2025-12-01 00:44:58] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:44:58] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:45:01] [32minfo[39m: User Router Initialized
+[2025-12-01 00:45:01] [32minfo[39m: Database connected successfully
+[2025-12-01 00:45:01] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:45:01] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:45:05] [32minfo[39m: User Router Initialized
+[2025-12-01 00:45:05] [32minfo[39m: Database connected successfully
+[2025-12-01 00:45:05] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:45:05] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:45:24] [32minfo[39m: User Router Initialized
+[2025-12-01 00:45:25] [32minfo[39m: Database connected successfully
+[2025-12-01 00:45:25] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:45:25] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:45:46] [32minfo[39m: User Router Initialized
+[2025-12-01 00:45:46] [32minfo[39m: Database connected successfully
+[2025-12-01 00:45:46] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:45:46] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:10] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:10] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:10] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:10] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:12] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:12] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:12] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:12] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:14] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:14] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:14] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:14] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:32] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:32] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:32] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:32] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:43] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:43] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:44] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:49] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:49] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:49] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:49] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:46:54] [32minfo[39m: User Router Initialized
+[2025-12-01 00:46:54] [32minfo[39m: Database connected successfully
+[2025-12-01 00:46:54] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:46:54] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:01] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:01] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:01] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:01] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:13] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:13] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:13] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:13] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:22] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:22] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:22] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:22] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:26] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:26] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:26] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:26] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:27] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:27] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:27] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:27] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:29] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:29] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:29] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:29] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:33] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:33] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:33] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:33] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:47:45] [32minfo[39m: User Router Initialized
+[2025-12-01 00:47:45] [32minfo[39m: Database connected successfully
+[2025-12-01 00:47:45] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:47:45] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:48:08] [32minfo[39m: User Router Initialized
+[2025-12-01 00:48:08] [32minfo[39m: Database connected successfully
+[2025-12-01 00:48:08] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:48:08] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:48:19] [32minfo[39m: User Router Initialized
+[2025-12-01 00:48:19] [32minfo[39m: Database connected successfully
+[2025-12-01 00:48:19] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:48:19] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:50:23] [32minfo[39m: User Router Initialized
+[2025-12-01 00:50:23] [32minfo[39m: Database connected successfully
+[2025-12-01 00:50:23] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:50:23] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:50:46] [32minfo[39m: User Router Initialized
+[2025-12-01 00:50:46] [32minfo[39m: Database connected successfully
+[2025-12-01 00:50:46] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:50:46] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 00:50:47] [32minfo[39m: User Router Initialized
+[2025-12-01 00:50:47] [32minfo[39m: Database connected successfully
+[2025-12-01 00:50:47] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 00:50:47] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-01 01:11:45] [32minfo[39m: User Router Initialized
+[2025-12-01 01:11:45] [32minfo[39m: Database connected successfully
+[2025-12-01 01:11:45] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-01 01:11:45] [32minfo[39m: Error creating users table: relation "users" already exists
