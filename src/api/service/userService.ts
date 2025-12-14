@@ -6,4 +6,5 @@ export interface UserService {
   getUserById(id: number): Promise<User | null>;
   updateUser(id: number, user: User): Promise<User | null>;
   deleteUser(id: number): Promise<boolean>;
+  getUserByEmail(email: string): Promise<User | null>;
 }

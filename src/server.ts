@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cors());
 
-app.use("/user", userRouter.router);  // FIXED: no .router
+app.use("/api/v2/user", userRouter.router);
 
 const startServer = async () => {
   try {

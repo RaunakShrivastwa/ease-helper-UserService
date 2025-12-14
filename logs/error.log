@@ -240,3 +240,4 @@
 [2025-11-29 18:54:52] [31merror[39m: Migration error in table 'products': Cannot read properties of undefined (reading 'query')
 [2025-11-30 23:26:56] [31merror[39m: ❌ Failed to start server: product is not defined
 [2025-12-01 00:16:58] [31merror[39m: Database connection failed: password authentication failed for user "f"
+[2025-12-03 22:49:47] [31merror[39m: Database connection failed: password authentication failed for user "GHGG"

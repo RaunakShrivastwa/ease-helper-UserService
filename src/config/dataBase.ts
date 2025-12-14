@@ -35,6 +35,9 @@ class Database {
   public getPool(): Pool {
     return this.pool;
   }
+
+  
+
 }
 
 export default new Database();

@@ -1,10 +1,10 @@
 import { UserRepository } from "../repo/userRepo";
 import { UserService } from "./userService";
 import { User } from "../model/User";
-import Repository from "../repo/repo";
+
 
 export class UserServiceImpl implements UserService {
-  private userRepo: Repository;
+  private userRepo: UserRepository;
 
   constructor() {
     this.userRepo = new UserRepository("users");
@@ -28,5 +28,9 @@ export class UserServiceImpl implements UserService {
 
   deleteUser(id: number): Promise<boolean> {
     return this.userRepo.deleteUser(id);
+  }
+
+  getUserByEmail(email: string): Promise<User | null> {
+    return (this.userRepo as UserRepository).findByEmail(email);
   }
 }

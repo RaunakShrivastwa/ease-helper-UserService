@@ -1,14 +1,25 @@
 import { Request, Response } from "express";
 import { UserServiceImpl } from "../service/userServiceImpl";
 import { User } from "../model/User";
+import passwordHasing from "../validators/passwordHasing";
 
 const userService = new UserServiceImpl();
 
 export class UserController {
 
   static async create(req: Request, res: Response) {
-    const { name, email } = req.body;
-    // const user = new User(name, email,"abcd1234","Delhi");
+
+    try{
+      // hased password
+      req.body.password = await passwordHasing.hashPassword(req.body.password);
+      let user = await userService.createUser(req.body);
+      return res.status(201).json(user);
+    }catch(error){
+      console.error("Error creating user:", error);
+      res.status(500).json({ msg: `Internal server error ${error}` });
+      return;
+    }
+    
     const result = await userService.createUser(req.body);
     res.json(result);
   }
@@ -37,6 +48,12 @@ export class UserController {
     deleted
       ? res.json({ msg: "User deleted" })
       : res.status(404).json({ msg: "User not found" });
+  }
+
+  static async getByEmail(req: Request, res: Response) {
+    const email = req.params.email;
+    const user = await userService.getUserByEmail(email);
+    user ? res.status(200).json(user) : res.status(404).json({ msg: "User not found" });
   }
 
 

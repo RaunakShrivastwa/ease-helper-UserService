@@ -22,11 +22,12 @@ class userRouter {
   }
 
   public routes(): void {
-    this.router.post("/", UserValidators.useValidators,UserController.create);
-    this.router.get("/", UserController.getAll);
+    this.router.post("/create", UserValidators.useValidators,UserController.create);
+    this.router.get("/all/list", UserController.getAll);
     this.router.get("/:id", UserController.getById);
     this.router.delete("/:id", UserController.delete);
     this.router.put("/:id", UserController.update);
+    this.router.get("/find/email/:email", UserController.getByEmail);
   }
 }
 

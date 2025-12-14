@@ -84,4 +84,12 @@ export class UserRepository {
     const result = await this.pool.query(query, [id]);
     return result.rowCount > 0;
   }
+
+   async findByEmail(email: string): Promise<User | null> {
+    const query = `SELECT * FROM ${this.tableName} WHERE email = $1;`;  
+    return this.pool.query(query, [email]).then((result: any) => {
+      return result.rows.length ? result.rows[0] : null;
+    });
+  }
+
 }
