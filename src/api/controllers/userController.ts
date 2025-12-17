@@ -19,9 +19,6 @@ export class UserController {
       res.status(500).json({ msg: `Internal server error ${error}` });
       return;
     }
-    
-    const result = await userService.createUser(req.body);
-    res.json(result);
   }
 
   static async getAll(req: Request, res: Response) {

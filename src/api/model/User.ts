@@ -2,10 +2,9 @@
 import { statusType, UserRole } from "../validators/roleType";
 
 export class User {
-  id: number;
+  userID: number;
   name: string = "";
   email: string = "";
-  password: string = "";
   address: string = "";
   phone: string = "";
   role: UserRole = UserRole.USER;

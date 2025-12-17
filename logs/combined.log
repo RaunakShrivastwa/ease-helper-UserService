@@ -2634,3 +2634,23 @@
 [2025-12-14 22:52:13] [32minfo[39m: Database connected successfully
 [2025-12-14 22:52:13] [32minfo[39m: 🚀 Server running on port 3000
 [2025-12-14 22:52:13] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-15 23:29:36] [32minfo[39m: User Router Initialized
+[2025-12-15 23:29:36] [32minfo[39m: Database connected successfully
+[2025-12-15 23:29:36] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-15 23:29:36] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-16 01:07:44] [32minfo[39m: User Router Initialized
+[2025-12-16 01:07:44] [32minfo[39m: Database connected successfully
+[2025-12-16 01:07:44] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-16 01:07:44] [32minfo[39m: User table created successfully
+[2025-12-17 23:50:45] [32minfo[39m: User Router Initialized
+[2025-12-17 23:50:46] [32minfo[39m: Database connected successfully
+[2025-12-17 23:50:46] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-17 23:50:46] [32minfo[39m: User table created successfully
+[2025-12-18 00:03:39] [32minfo[39m: User Router Initialized
+[2025-12-18 00:03:39] [32minfo[39m: Error creating users table: database "userService" does not exist
+[2025-12-18 00:04:55] [32minfo[39m: User Router Initialized
+[2025-12-18 00:04:55] [31merror[39m: Database connection failed: database "userService" does not exist
+[2025-12-18 00:05:30] [32minfo[39m: User Router Initialized
+[2025-12-18 00:05:30] [32minfo[39m: Database connected successfully
+[2025-12-18 00:05:30] [32minfo[39m: 🚀 Server running on port 3000
+[2025-12-18 00:05:30] [32minfo[39m: User table created successfully
