@@ -16,9 +16,8 @@ export class UserRepository {
     try {
       const query = ` create table ${this.tableName} (
       id SERIAL PRIMARY KEY,
-      name VARCHAR(100) NOT NULL,
+      name VARCHAR(100),
       email VARCHAR(100) UNIQUE NOT NULL,
-      password VARCHAR(100) NOT NULL,
       address VARCHAR(255),
       phone VARCHAR(15),
       role VARCHAR(20) DEFAULT 'USER',

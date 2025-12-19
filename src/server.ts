@@ -5,6 +5,8 @@ import database from "./config/dataBase";
 
 import userRouter from "./api/routes/userRouter";
 import { logger } from "./util/logger";
+import { startUserAuthConsumer } from "./event/consumer";
+import { connectProducer } from "./event/producer";
 
 dotenv.config();
 
@@ -16,19 +18,18 @@ app.use(cors());
 
 app.use("/api/v2/user", userRouter.router);
 
-const startServer = async () => {
-  try {
 
-    await database.connectDatabase();
-
-    app.listen(PORT, () => {
-      logger.info(`🚀 Server running on port ${PORT}`);
+app.listen(PORT, (err) => {
+      if(err){
+        logger.error(`there is error with service ${err}`)
+      }
+      startServer();
     });
 
-  } catch (err: any) {
-    logger.error("❌ Failed to start server: " + err.message);
-    process.exit(1);
-  }
+async function startServer(){
+   await database.connectDatabase();
+    await startUserAuthConsumer();
+    await connectProducer();
 };
 
 startServer();

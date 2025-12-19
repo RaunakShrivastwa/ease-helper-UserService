@@ -243,3 +243,9 @@
 [2025-12-03 22:49:47] [31merror[39m: Database connection failed: password authentication failed for user "GHGG"
 [2025-12-18 00:03:39] [31merror[39m: Database connection failed: database "userService" does not exist
 [2025-12-18 00:04:55] [31merror[39m: Database connection failed: database "userService" does not exist
+[2025-12-19 00:16:24] [31merror[39m: ❌ Failed to start server: aw is not defined
+[2025-12-19 00:16:26] [31merror[39m: ❌ Failed to start server: start is not defined
+[2025-12-19 00:16:41] [31merror[39m: ❌ Failed to start server: startUserAuthConsumer is not defined
+[2025-12-19 00:17:21] [31merror[39m: ❌ Failed to start server: lo is not defined
+[2025-12-19 00:17:23] [31merror[39m: ❌ Failed to start server: logger is not defined
+[2025-12-19 00:41:39] [31merror[39m: Kafka produce failed The producer is disconnected

@@ -1,22 +1,19 @@
 import { Request, Response } from "express";
 import { UserServiceImpl } from "../service/userServiceImpl";
-import { User } from "../model/User";
-import passwordHasing from "../validators/passwordHasing";
+import { connectProducer, publishProfileEvent } from "../../event/producer";
 
 const userService = new UserServiceImpl();
 
 export class UserController {
 
-  static async create(req: Request, res: Response) {
-
+  static async create(user:any) {
     try{
-      // hased password
-      req.body.password = await passwordHasing.hashPassword(req.body.password);
-      let user = await userService.createUser(req.body);
-      return res.status(201).json(user);
+      user =  await userService.createUser(user);
+      await publishProfileEvent(user);
+      
     }catch(error){
       console.error("Error creating user:", error);
-      res.status(500).json({ msg: `Internal server error ${error}` });
+      // res.status(500).json({ msg: `Internal server error ${error}` });
       return;
     }
   }
