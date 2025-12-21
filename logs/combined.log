@@ -3255,3 +3255,162 @@
 [2025-12-20 01:52:04] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":4,"email":"rxr@gmail.com","role":"ADMIN"}
 [2025-12-20 01:54:24] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":5,"email":"rvxr@gmail.com","role":"ADMIN"}
 [2025-12-20 01:55:49] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":6,"email":"rjkjkvxr@gmail.com","role":"ADMIN"}
+[2025-12-20 12:41:45] [32minfo[39m: User Router Initialized
+[2025-12-20 12:41:45] [32minfo[39m: Database connected successfully
+[2025-12-20 12:41:45] [32minfo[39m: Database connected successfully
+[2025-12-20 12:41:45] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 12:41:45] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 12:41:45] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 12:41:45] [32minfo[39m: kafka producer connected
+[2025-12-20 12:41:45] [32minfo[39m: kafka producer connected
+[2025-12-20 12:42:14] [32minfo[39m: Database connected successfully
+[2025-12-20 12:42:14] [32minfo[39m: Database connected successfully
+[2025-12-20 12:42:14] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 12:42:14] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 12:42:14] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 12:42:14] [32minfo[39m: kafka producer connected
+[2025-12-20 12:42:40] [32minfo[39m: kafka producer connected
+[2025-12-20 12:53:08] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":7,"email":"p@gmail.com","role":"ADMIN"}
+[2025-12-20 18:17:25] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":8,"email":"shubham@gmail.com","role":"ADMIN"}
+[2025-12-20 18:44:34] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":9,"email":"RAUNAK@gmail.com","role":"DMIN"}
+[2025-12-20 18:44:57] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":10,"email":"gg@gmail.com","role":"ukuuiouoi"}
+[2025-12-20 18:50:25] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":11,"email":"Shubham@gmail.com","role":"ADMIN"}
+[2025-12-20 18:50:38] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":12,"email":"Raunak@gmail.com","role":"PROVIDER"}
+[2025-12-20 18:50:47] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":13,"email":"Abhijeet@gmail.com","role":"PROVIDER"}
+[2025-12-20 18:50:57] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":14,"email":"Jitendra@gmail.com","role":"PROVIDER"}
+[2025-12-20 18:51:08] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":15,"email":"Ashis@gmail.com","role":"USER"}
+[2025-12-20 18:51:20] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":16,"email":"Ritik@gmail.com","role":"USER"}
+[2025-12-20 19:15:47] [32minfo[39m: Database connected successfully
+[2025-12-20 19:15:47] [32minfo[39m: Database connected successfully
+[2025-12-20 19:15:47] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:15:47] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 19:15:47] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 19:15:47] [32minfo[39m: kafka producer connected
+[2025-12-20 19:15:54] [32minfo[39m: Database connected successfully
+[2025-12-20 19:15:54] [32minfo[39m: Database connected successfully
+[2025-12-20 19:15:54] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:15:54] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 19:15:54] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 19:15:54] [32minfo[39m: kafka producer connected
+[2025-12-20 19:16:42] [32minfo[39m: kafka producer connected
+[2025-12-20 19:30:57] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:30:57] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:15] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:15] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:20] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:20] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:21] [31merror[39m: Error starting consumer for topic undefined: KafkaJSNonRetriableError: Missing required argument "topics"
+[2025-12-20 19:32:21] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:21] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:30] [31merror[39m: Error starting consumer for topic : KafkaJSNonRetriableError: Missing required argument "topics"
+[2025-12-20 19:32:30] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:30] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:33] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:33] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:36] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:36] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:38] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:38] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:40] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:40] [32minfo[39m: Consumer connected for topic: BOOKING-
+[2025-12-20 19:32:40] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:44] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:44] [32minfo[39m: Database connected successfully
+[2025-12-20 19:32:47] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:32:47] [32minfo[39m: Consumer connected for topic: BOOKING-CREATED
+[2025-12-20 19:32:47] [32minfo[39m: Database connected successfully
+[2025-12-20 19:33:08] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:33:08] [32minfo[39m: Consumer connected for topic: BOOKING-CREATED
+[2025-12-20 19:33:08] [32minfo[39m: Database connected successfully
+[2025-12-20 19:33:35] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:33:35] [32minfo[39m: Consumer connected for topic: BOOKING-CREATED
+[2025-12-20 19:33:35] [32minfo[39m: Database connected successfully
+[2025-12-20 19:33:40] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:33:40] [32minfo[39m: Consumer connected for topic: BOOKING-CREATED
+[2025-12-20 19:33:40] [32minfo[39m: Database connected successfully
+[2025-12-20 19:33:47] [32minfo[39m: Consumer connected for topic: USER_AUTH_CREATED
+[2025-12-20 19:33:47] [32minfo[39m: Consumer connected for topic: BOOKING-CREATED
+[2025-12-20 19:33:47] [32minfo[39m: Database connected successfully
+[2025-12-20 19:37:47] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:37:47] [32minfo[39m: Database connected successfully
+[2025-12-20 19:37:57] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:37:57] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:02] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:02] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:06] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:06] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:13] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:13] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:17] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:17] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:21] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:21] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:33] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:33] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:40] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:40] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:48] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:48] [32minfo[39m: Database connected successfully
+[2025-12-20 19:38:59] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:38:59] [32minfo[39m: Database connected successfully
+[2025-12-20 19:39:00] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:39:00] [32minfo[39m: Database connected successfully
+[2025-12-20 19:39:58] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:04] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:04] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:04] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:40:04] [32minfo[39m: kafka producer connected
+[2025-12-20 19:40:04] [32minfo[39m: kafka producer connected
+[2025-12-20 19:40:25] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:30] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:30] [32minfo[39m: Database connected successfully
+[2025-12-20 19:40:30] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:40:30] [32minfo[39m: kafka producer connected
+[2025-12-20 19:40:30] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:42] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:42] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:42] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:41:42] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:42] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:43] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:55] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:41:55] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:55] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:55] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:41:55] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:55] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:58] [32minfo[39m: Consumer connected and subscribed to topics:
+[2025-12-20 19:41:58] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:58] [31merror[39m: Error starting consumer: KafkaJSNonRetriableError: Cannot subscribe to topic while consumer is running
+[2025-12-20 19:41:58] [32minfo[39m: Database connected successfully
+[2025-12-20 19:41:58] [31merror[39m: Error starting consumer: KafkaJSNonRetriableError: Cannot subscribe to topic while consumer is running
+[2025-12-20 19:41:58] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 19:41:58] [32minfo[39m: kafka producer connected
+[2025-12-20 19:41:58] [32minfo[39m: kafka producer connected
+[2025-12-20 19:43:26] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":17,"email":"Ritika@gmail.com","role":"USER"}
+[2025-12-20 20:05:14] [32minfo[39m: Database connected successfully
+[2025-12-20 20:05:49] [32minfo[39m: Database connected successfully
+[2025-12-20 20:05:49] [32minfo[39m: Database connected successfully
+[2025-12-20 20:05:49] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 20:05:49] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 20:05:49] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 20:05:49] [32minfo[39m: kafka producer connected
+[2025-12-20 20:05:49] [32minfo[39m: kafka producer connected
+[2025-12-20 23:44:18] [32minfo[39m: Database connected successfully
+[2025-12-20 23:44:18] [32minfo[39m: Database connected successfully
+[2025-12-20 23:44:18] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 23:44:41] [32minfo[39m: Database connected successfully
+[2025-12-20 23:44:41] [32minfo[39m: Database connected successfully
+[2025-12-20 23:44:41] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-20 23:44:41] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 23:44:41] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-20 23:44:41] [32minfo[39m: kafka producer connected
+[2025-12-20 23:45:04] [32minfo[39m: kafka producer connected
+[2025-12-21 14:29:34] [32minfo[39m: Database connected successfully
+[2025-12-21 14:29:34] [32minfo[39m: Database connected successfully
+[2025-12-21 14:29:34] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-21 14:29:34] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 14:29:34] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 14:29:34] [32minfo[39m: kafka producer connected
+[2025-12-21 14:29:35] [32minfo[39m: kafka producer connected
+[2025-12-21 17:07:42] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":18,"email":"Ritika@gmail.com","role":"USER"}

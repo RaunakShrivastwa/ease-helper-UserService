@@ -249,3 +249,7 @@
 [2025-12-19 00:17:21] [31merror[39m: ❌ Failed to start server: lo is not defined
 [2025-12-19 00:17:23] [31merror[39m: ❌ Failed to start server: logger is not defined
 [2025-12-19 00:41:39] [31merror[39m: Kafka produce failed The producer is disconnected
+[2025-12-20 19:32:21] [31merror[39m: Error starting consumer for topic undefined: KafkaJSNonRetriableError: Missing required argument "topics"
+[2025-12-20 19:32:30] [31merror[39m: Error starting consumer for topic : KafkaJSNonRetriableError: Missing required argument "topics"
+[2025-12-20 19:41:58] [31merror[39m: Error starting consumer: KafkaJSNonRetriableError: Cannot subscribe to topic while consumer is running
+[2025-12-20 19:41:58] [31merror[39m: Error starting consumer: KafkaJSNonRetriableError: Cannot subscribe to topic while consumer is running

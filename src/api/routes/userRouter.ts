@@ -8,7 +8,6 @@ class userRouter {
   public router: Router;
   constructor() {
     this.router = Router();
-    logger.info("User Router Initialized");
     new UserRepository("users")
       .createTable()
       .then((msg) => {
