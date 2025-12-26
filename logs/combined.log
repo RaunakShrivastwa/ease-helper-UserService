@@ -3414,3 +3414,21 @@
 [2025-12-21 14:29:34] [32minfo[39m: kafka producer connected
 [2025-12-21 14:29:35] [32minfo[39m: kafka producer connected
 [2025-12-21 17:07:42] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":18,"email":"Ritika@gmail.com","role":"USER"}
+[2025-12-21 17:26:17] [32minfo[39m: Database connected successfully
+[2025-12-21 17:26:17] [32minfo[39m: Database connected successfully
+[2025-12-21 17:26:17] [32minfo[39m: Error creating users table: relation "users" already exists
+[2025-12-21 17:26:17] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 17:26:17] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 17:26:17] [32minfo[39m: kafka producer connected
+[2025-12-21 17:26:43] [32minfo[39m: kafka producer connected
+[2025-12-21 17:30:45] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":1,"email":"Shubham@gmail.com","role":"USER","location":"Delhi"}
+[2025-12-21 17:36:02] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":2,"email":"Shubham@gmail.com","role":"USER"}
+[2025-12-21 17:36:50] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":3,"email":"Raunak@gmail.com","role":"PROVIDER"}
+[2025-12-21 17:37:05] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":4,"email":"Abhijeet@gmail.com","role":"PROVIDER"}
+[2025-12-21 17:40:57] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":5,"email":"KS@gmail.com","role":"PROVIDER"}
+[2025-12-21 17:41:14] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":6,"email":"Jitendra@gmail.com","role":"PROVIDER"}
+[2025-12-21 21:48:23] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":7,"email":"codecprogramming@gmail.com","role":"PROVIDER"}
+[2025-12-21 21:49:23] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":8,"email":"codingsstudio@gmail.com","role":"USER"}
+[2025-12-21 21:49:51] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":9,"email":"abhijeetkumar2532002@gmail.com","role":"PROVIDER"}
+[2025-12-21 21:50:30] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":10,"email":"kumarraunak4201@gmail.com","role":"PROVIDER"}
+[2025-12-21 22:47:34] [32minfo[39m: USER_AUTH_CREATED consumed: {"id":11,"email":"aashishshrivastav19@gmail.com","role":"PROVIDER"}
