@@ -9,6 +9,7 @@ export class User {
   phone: string = "";
   role: UserRole = UserRole.USER;
   status: statusType = statusType.ACTIVE;
+  discription :string;
   createdAt: Date = new Date();
   updatedAt: Date = new Date();
 }

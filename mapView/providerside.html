@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Provider Live Location</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .box {
+      border: 1px solid #ccc;
+      padding: 16px;
+      width: 320px;
+      border-radius: 8px;
+    }
+    .title {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .btn {
+      margin-top: 10px;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <div class="title">🚗 Provider Location Sender</div>
+
+    <div>
+      <label>Booking ID:</label>
+      <input type="text" id="bookingId" value="B101" />
+    </div>
+
+    <button class="btn" onclick="startSending()">Start Sending Location</button>
+    <button class="btn" onclick="stopSending()">Stop</button>
+
+    <div id="status">Not sending</div>
+  </div>
+
+  <!-- socket.io client -->
+  <script src="http://localhost:5000/socket.io/socket.io.js"></script>
+
+  <script>
+    let intervalId = null;
+
+    // 🔗 connect to booking service (via gateway in prod)
+    const socket = io("http://localhost:7070", {
+      extraHeaders: {
+        "x-user-id": "7",    // testing only
+        "x-user-role": "PROVIDER"
+      }
+    });
+
+    socket.on("connect", () => {
+      console.log("Provider connected:", socket.id);
+    });
+
+    function startSending() {
+      const bookingId = document.getElementById("bookingId").value;
+
+      if (intervalId) return;
+
+      intervalId = setInterval(() => {
+        // dummy moving location
+        const lat = 28.61 + Math.random() / 100;
+        const lng = 77.20 + Math.random() / 100;
+
+        socket.emit("provider-location", {
+          bookingId,
+          lat,
+          lng
+        });
+
+        document.getElementById("status").innerText =
+          `Sending location: ${lat.toFixed(5)}, ${lng.toFixed(5)}`;
+      }, 5000);
+    }
+
+    function stopSending() {
+      clearInterval(intervalId);
+      intervalId = null;
+      document.getElementById("status").innerText = "Stopped";
+    }
+
+    socket.on("disconnect", () => {
+      document.getElementById("status").innerText = "Disconnected";
+    });
+  </script>
+
+</body>
+</html>

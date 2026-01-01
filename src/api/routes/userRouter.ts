@@ -27,6 +27,7 @@ class userRouter {
     this.router.delete("/:id", UserController.delete);
     this.router.put("/:id", UserController.update);
     this.router.get("/find/email/:email", UserController.getByEmail);
+    this.router.get("/search/your/order",UserController.textSearchUsers);
   }
 }
 

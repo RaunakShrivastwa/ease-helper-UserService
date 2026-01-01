@@ -27,3 +27,21 @@ export async function publishProfileEvent(data: any) {
 }
 
 
+export async function publishDeleteProfileEvent(data: any) {
+  try {
+    await producer.send({
+      topic: "USER_DELETED",
+      messages: [
+        {
+          key: String(data.id),
+          value: JSON.stringify(data),
+        },
+      ],
+    });
+  } catch (err) {
+    logger.error("Kafka produce failed", err);
+  }
+}
+
+
+

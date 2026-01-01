@@ -27,6 +27,7 @@ app.listen(PORT, (err) => {
     });
 
 async function startServer(){
+  logger.info(`server running on ${PORT}`)
    await database.connectDatabase();
     await startUserAuthConsumer();
     await connectProducer();

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>User Live Tracking</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .box {
+      border: 1px solid #ccc;
+      padding: 16px;
+      width: 300px;
+      border-radius: 8px;
+    }
+    .title {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .location {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <div class="title">📍 Provider Live Location</div>
+
+    <div>
+      <label>Booking ID:</label>
+      <input type="text" id="bookingId" value="B101" />
+      <button onclick="joinBooking()">Join</button>
+    </div>
+
+    <div class="location" id="status">Waiting for location...</div>
+  </div>
+
+  <!-- socket.io client -->
+  <script src="http://localhost:5000/socket.io/socket.io.js"></script>
+
+  <script>
+    // 🔗 connect to booking service (via gateway if deployed)
+    const socket = io("http://localhost:5000", {
+      extraHeaders: {
+        "x-user-id": "USER_ID_1",      // gateway normally inject karega
+        "x-user-role": "USER"
+      }
+    });
+
+    socket.on("connect", () => {
+      console.log("Connected to socket:", socket.id);
+    });
+
+    function joinBooking() {
+      const bookingId = document.getElementById("bookingId").value;
+
+      socket.emit("join-booking", { bookingId });
+      document.getElementById("status").innerText =
+        "Joined booking. Waiting for provider...";
+    }
+
+    socket.on("location-update", (data) => {
+      console.log("Live update:", data);
+
+      document.getElementById("status").innerText =
+        `Lat: ${data.lat} | Lng: ${data.lng}`;
+    });
+
+    socket.on("disconnect", () => {
+      document.getElementById("status").innerText =
+        "Disconnected from server";
+    });
+  </script>
+
+</body>
+</html>

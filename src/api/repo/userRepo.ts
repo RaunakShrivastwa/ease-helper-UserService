@@ -19,8 +19,12 @@ export class UserRepository {
       name VARCHAR(100),
       email VARCHAR(100) UNIQUE NOT NULL,
       address VARCHAR(255),
+      location VARCHAR(100),
+      avtar VARCHAR(200),
       phone VARCHAR(15),
       role VARCHAR(20) DEFAULT 'USER',
+      
+      description VARCHAR(255),
       status VARCHAR(20) DEFAULT 'ACTIVE',
       createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
       updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
